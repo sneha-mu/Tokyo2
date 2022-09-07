@@ -3,3 +3,4 @@ GitHub is a website and cloud-based service that helps developers store and mana
 Enter into Github account and click create repository
 Enter the repository name in the repository field
 Provide Access to the users or collabrators
+Create a repo by clicking Create repository
