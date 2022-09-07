@@ -1,2 +1,3 @@
 GIT - Global Information Tracker
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
+Enter into Github account and click create repository
