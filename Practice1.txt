@@ -4,3 +4,4 @@ Enter into github account and click create repository
 Enter the repository name in the Repository name field
 Provide the Access to the users or collaborators
 Create a repo by clicking create repository
+Clone the folders into the repo using Git clone <url> Folder name
